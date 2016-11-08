@@ -5,4 +5,4 @@ Open source application for charting data sent via RS-232 port in real time.
 For configuration file syntax see: ConfigurationFileSyntax
 
 For sample usage with a microcontroller (Arduino) project see: http://starlino.com/imu_kalman_arduino.html
-![Image text](https://github.com/houjiangkuan/serialchart/blob/master/image/interface.png)
+![Image text](serialchart/image/interface.png)
